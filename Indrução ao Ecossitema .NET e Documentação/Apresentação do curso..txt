@@ -1,0 +1,12 @@
+Bom, nesse tópico (apresentação do curso) básicamente foi falo acerca dos do que será falado ao longo do curso. Aqui vão alguns:
+Visão geral do Ecossistema .NET;
+
+Sobre .NET Framework, .NET Core e Xamarin
+
+Padrão de codificação .NET;
+
+Ferramentas e Linguagens e 
+
+O que usar? Quando Usar?
+
+Básicamente esses são os topicos que serão abordado.

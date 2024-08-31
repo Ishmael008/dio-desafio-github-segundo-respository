@@ -1,0 +1,2 @@
+lincks para dowload do Git: https://git-scm.com/
+O GIT bash é um terriminal estendido o uso de GIT
